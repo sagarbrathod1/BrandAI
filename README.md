@@ -1,6 +1,6 @@
 # Brand AI | [Live Site](https://brandai.vercel.app/)
 
-> :warning: **This app is no longer functional due to loss of access to AWS Free Tier.**
+> :warning: **This app is no longer functional due to the loss of access to the AWS Free Tier.**
 
 This is an AI-driven software-as-a-solution (SaaS) application that generates upbeat taglines and search-engine-optimized keywords for businesses/brands.
 
