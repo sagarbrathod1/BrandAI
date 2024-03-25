@@ -50,8 +50,7 @@ const Form: React.FC<FormProps> = (props) => {
         Submit
       </button>
       <div className="text-red-500 my-4 text-center">
-        Apologies, but this app is no longer functional due to my AWS Free Tier
-        access expiring. 😅
+        Apologies, but this app is no longer functional. 😅
       </div>
       <div className="text-green-500 my-4 text-center">
         Check out the source code{" "}
